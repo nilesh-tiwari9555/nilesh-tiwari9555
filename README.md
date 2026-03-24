@@ -16,9 +16,8 @@ I believe in learning by doing, so this GitHub profile is where I share my pract
 ## 🛠️ Skills I'm Learning
 
 * 🐍 Python (Basics)
-* 💾 Data Structures (Beginner level)
 * 🌐 HTML & CSS
-* 📊 Data Handling & Problem Solving
+* Javascript
 
 ---
 
@@ -38,12 +37,6 @@ I believe in learning by doing, so this GitHub profile is where I share my pract
 * Learn new technologies
 * Become a skilled software developer
 
----
-
-## 📫 Connect With Me
-
-* 📧 Email: (Add your email here)
-* 🌐 GitHub: (Your GitHub profile link)
 
 ---
 
